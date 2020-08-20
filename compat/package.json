@@ -1,0 +1,18 @@
+{
+  "name": "hre-compat",
+  "version": "1.0.0",
+  "description": "> Something that can be implemanted in userland.",
+  "main": "../dist/hre-compat.js",
+  "peerDependencies": {
+    "hre": "^2.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.10.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
